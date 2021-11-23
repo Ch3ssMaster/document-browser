@@ -1,0 +1,125 @@
+{
+  "documents": [
+    {
+      "id": 0,
+      "key": 0,
+      "channel": "PDF",
+      "name": "Voluptates est recusandae sapiente praesentium ex.",
+      "group": "RRHH",
+      "status": "Sorted",
+      "modified": "2021-11-16T08:37:20.298Z",
+      "type": "Regist.",
+      "address": "/private/var"
+    },
+    {
+      "id": 1,
+      "key": 1,
+      "channel": "SMS",
+      "name": "Quis dolores.",
+      "group": "Users",
+      "status": "Folded",
+      "modified": "2021-11-16T10:22:05.223Z",
+      "type": "Non-prior",
+      "address": "/opt"
+    },
+    {
+      "id": 2,
+      "key": 2,
+      "channel": "SMS",
+      "name": "Explicabo nam perspiciatis deleniti.",
+      "group": "Finitech",
+      "status": "Delivered",
+      "modified": "2021-11-16T03:45:14.573Z",
+      "type": "Non-prior",
+      "address": "/usr/local/src"
+    },
+    {
+      "id": 3,
+      "key": 3,
+      "channel": "PDF",
+      "name": "Dolor et consequatur aut quo consequatur dolore.",
+      "group": "Receipts",
+      "status": "Received",
+      "modified": "2021-11-16T17:22:18.662Z",
+      "type": "Non-prior",
+      "address": "/Network"
+    },
+    {
+      "id": 4,
+      "key": 4,
+      "channel": "PDF",
+      "name": "Right now",
+      "group": "RRHH",
+      "status": "Sorted",
+      "modified": "2021-11-18T05:01:15.616Z",
+      "type": "Prior",
+      "address": "/var/mail"
+    },
+    {
+      "key": 5,
+      "channel": "SMS",
+      "name": "asdfasdf",
+      "group": "Finitech",
+      "status": "Delivered",
+      "modified": "2021-11-23T00:36:38.281Z",
+      "type": "Regist.",
+      "address": "/private/tmp",
+      "id": 5
+    },
+    {
+      "key": 6,
+      "channel": "PDF",
+      "name": "new-doc",
+      "group": "Finitech",
+      "status": "Delivered",
+      "modified": "2021-11-22T20:58:01.947Z",
+      "type": "Prior",
+      "address": "/usr",
+      "id": 6
+    },
+    {
+      "key": 7,
+      "channel": "PDF",
+      "name": "Another new document",
+      "group": "Finitech",
+      "status": "Sorted",
+      "modified": "2021-11-23T02:49:24.708Z",
+      "type": "Regist.",
+      "address": "/sys",
+      "id": 7
+    },
+    {
+      "key": 8,
+      "channel": "PDF",
+      "name": "asdfasdfsfd",
+      "group": "Receipts",
+      "status": "Received",
+      "modified": "2021-11-22T23:20:23.037Z",
+      "type": "Regist.",
+      "address": "/etc/defaults",
+      "id": 8
+    },
+    {
+      "key": 9,
+      "channel": "SMS",
+      "name": "Tech Lessons",
+      "group": "Users",
+      "status": "Delivered",
+      "modified": "2021-11-23T03:09:21.740Z",
+      "type": "Non-prior",
+      "address": "/usr/local/bin",
+      "id": 9
+    },
+    {
+      "key": 10,
+      "channel": "SMS",
+      "name": "Another new document",
+      "group": "RRHH",
+      "status": "Delivered",
+      "modified": "2021-11-23T15:59:37.483Z",
+      "type": "Non-prior",
+      "address": "/sbin",
+      "id": 10
+    }
+  ]
+}
