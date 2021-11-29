@@ -1,0 +1,70 @@
+{
+  "documents": [
+    {
+      "id": 0,
+      "key": 0,
+      "channel": "PDF",
+      "name": "Voluptates est recusandae sapiente praesentium ex.",
+      "group": "RRHH",
+      "status": "Sorted",
+      "modified": "2021-11-16T08:37:20.298Z",
+      "type": "Regist.",
+      "address": "/private/var"
+    },
+    {
+      "id": 1,
+      "key": 1,
+      "channel": "SMS",
+      "name": "Quis dolores.",
+      "group": "Users",
+      "status": "Folded",
+      "modified": "2021-11-16T10:22:05.223Z",
+      "type": "Non-prior",
+      "address": "/opt"
+    },
+    {
+      "id": 2,
+      "key": 2,
+      "channel": "SMS",
+      "name": "Explicabo nam perspiciatis deleniti.",
+      "group": "Finitech",
+      "status": "Delivered",
+      "modified": "2021-11-16T03:45:14.573Z",
+      "type": "Non-prior",
+      "address": "/usr/local/src"
+    },
+    {
+      "id": 3,
+      "key": 3,
+      "channel": "PDF",
+      "name": "Dolor et consequatur aut quo consequatur dolore.",
+      "group": "Receipts",
+      "status": "Received",
+      "modified": "2021-11-16T17:22:18.662Z",
+      "type": "Non-prior",
+      "address": "/Network"
+    },
+    {
+      "id": 4,
+      "key": 4,
+      "channel": "PDF",
+      "name": "Right now",
+      "group": "RRHH",
+      "status": "Sorted",
+      "modified": "2021-11-18T05:01:15.616Z",
+      "type": "Prior",
+      "address": "/var/mail"
+    },
+    {
+      "key": 15,
+      "channel": "SMS",
+      "name": "Tech Lessons",
+      "group": "Users",
+      "status": "Received",
+      "modified": "2021-11-28T18:17:17.384Z",
+      "type": "Regist.",
+      "address": "/srv",
+      "id": 15
+    }
+  ]
+}
